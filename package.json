@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "engines": {
     "node": "6.11.1",
@@ -30,7 +30,7 @@
   "homepage": "https://github.com/jerrychong25/node-password-reset-jwt",
   "dependencies": {
     "async": "^3.1.0",
-    "bcrypt": "^5.0.0",
+    "bcrypt": "^5.1.0",
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "fs": "^0.0.1-security",
