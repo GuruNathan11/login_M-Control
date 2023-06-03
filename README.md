@@ -22,7 +22,7 @@ Hosted on local host.
 
 ## Authors
 
-**Jerry Chong** - [jerrychong25](https://github.com/jerrychong25)
+**Gurunathan** - [Gurunathan11](https://github.com/Gurunathan11)
 
 ## License
 
